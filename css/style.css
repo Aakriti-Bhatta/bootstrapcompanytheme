@@ -1,0 +1,82 @@
+*{
+    font-size: 20px;
+    
+}
+header{
+    background: orangered;
+}
+header .navbar{
+    background: orangered;
+    
+}
+header .navbar .navbar-brand{
+    color: white;
+}
+header .navbar .nav-link{
+    color: white;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+header h4.heading{
+    color:white;
+    font-weight: 400;
+    font-size: 6pc;
+}
+header p.company{
+    color: white;
+    font-size:2pc;
+}
+
+
+header .start{
+    padding-bottom: 10rem;
+}
+
+.About h6{
+    text-transform: uppercase;
+    font-size: 26px;
+}
+.font{
+    color: orangered;
+
+}
+.bet{
+    border-radius: 1rem;
+    border-color: lightgrey;
+}
+
+.mison{
+    
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+    
+}
+     h1.heading{
+    text-transform: uppercase;
+    
+}
+.Services h6{
+    text-transform: uppercase;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.carousel-item li{
+    list-style-type: none;
+}
+.orange{
+    background: orangered;
+}
+.card h5{
+    color: white;
+}
+.photo img{
+    width: initial;
+}
+
+
+
+    
+
+
